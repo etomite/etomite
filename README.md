@@ -1,2 +1,3 @@
-# etomite
-Etomite CMS
+# Etomite
+
+## https://github.com/rasel-sk/etomite
